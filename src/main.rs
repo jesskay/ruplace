@@ -36,7 +36,7 @@ struct TargetJson {
     pub image: String
 }
 
-const TARGET_JSON_URL: &'static str = "https://raw.githubusercontent.com/ruplace-controllers/ruplace-target/master/ruplace.json";
+const TARGET_JSON_URL: &'static str = "https://raw.githubusercontent.com/jesskay/ruplace-target/master/ruplace.json";
 
 const PALETTE: [[u8; 4]; 17] = [
     [255, 255, 255, 255],
